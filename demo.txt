@@ -9,3 +9,5 @@ My name is Logan.
 My favorite number is 2.
 
 My favorite color is orange.
+
+But obviously the best color is purple.
